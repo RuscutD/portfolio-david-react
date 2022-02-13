@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-david-react/static/css/main.ea65a102.css",
+    "main.css": "/portfolio-david-react/static/css/main.5d2c2a90.css",
     "main.js": "/portfolio-david-react/static/js/main.196a371f.js",
     "static/media/backGround.jpeg": "/portfolio-david-react/static/media/backGround.e301fbefc7312cda341c.jpeg",
     "index.html": "/portfolio-david-react/index.html",
-    "main.ea65a102.css.map": "/portfolio-david-react/static/css/main.ea65a102.css.map",
+    "main.5d2c2a90.css.map": "/portfolio-david-react/static/css/main.5d2c2a90.css.map",
     "main.196a371f.js.map": "/portfolio-david-react/static/js/main.196a371f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea65a102.css",
+    "static/css/main.5d2c2a90.css",
     "static/js/main.196a371f.js"
   ]
 }
